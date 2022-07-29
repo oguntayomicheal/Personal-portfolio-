@@ -8,3 +8,15 @@
         top: 0px;
         width: 100%;
     }
+#welcome {
+   background-image: url("https://drive.google.com/file/d/19GAuLov0AHvo4P2a7PuWWQS_KUEO02Mc/view?usp=sharing");
+   text-align: center;
+}
+.projects {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.center {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
